@@ -1,2 +1,6 @@
 # qa-rest-client-example
-Examples of java rest-client libs
+Simple examples of java rest-client libs
+
+ApacheHttpClient http://hc.apache.org/httpclient-3.x/tutorial.html
+Rest Assured https://code.google.com/p/rest-assured/
+Retrofit http://square.github.io/retrofit/
